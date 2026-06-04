@@ -131,7 +131,6 @@ proy-final/
 | `numpy>=1.24` | Operaciones matriciales |
 | `reportlab>=4.0` | Generación de reportes PDF |
 | `openpyxl>=3.1` | Generación de reportes Excel |
-| `pyzbar>=0.1.9` | Decodificación QR (script de ejemplo) |
 
 > `reportlab` y `openpyxl` son opcionales: si no están instaladas, los reportes se generan en formato TXT y CSV respectivamente.
 
